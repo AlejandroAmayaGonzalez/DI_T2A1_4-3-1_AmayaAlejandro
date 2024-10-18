@@ -1,1 +1,1 @@
-# DI_T2A1_4-3-1_AmayaAlejandro
+Asignatura: DI | Autor: Alejandro Amaya González | Actividad 4.3.1
